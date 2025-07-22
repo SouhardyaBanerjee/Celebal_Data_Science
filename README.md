@@ -50,6 +50,7 @@ Take Any dataset of your choice and do the visualization
 
 Resources :
 https://www.youtube.com/watch?v=0P7QnIQDBJY
+
 https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda
 
 The goal of this task was to perform exploratory data analysis (EDA) and create meaningful data visualizations using a real-world dataset. The Titanic dataset was chosen for this exercise due to its simplicity and richness in features for analysis.
@@ -74,6 +75,18 @@ Uncover relationships between key variables
 Dataset:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/titanic_train.csv
 
 Task4:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%204.ipynb
+
+Week5:-House Price Prediction
+
+Data Preprocessing and feature engineering
+Resources :
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
+The primary objective of this task was to perform data preprocessing and feature engineering on a complex real-world dataset to prepare it for advanced machine learning models. The dataset used for this task was the House Prices - Advanced Regression Techniques dataset from Kaggle.
+
+
+
+
 
 
 
