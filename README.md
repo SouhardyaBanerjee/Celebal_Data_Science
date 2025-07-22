@@ -90,6 +90,21 @@ https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/test.csv
 
 Task5:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%205.ipynb
 
+Week6:-Model Evaluation and Hyperparameter Tuning
+
+Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score. Implement hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. Analyze the results to select the best-performing model.
+
+Resources :
+https://www.kdnuggets.com/hyperparameter-tuning-gridsearchcv-and-randomizedsearchcv-explained
+
+The goal of this task was to train and evaluate multiple machine learning models on a dataset, and to identify the best-performing model using key classification metrics and hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV.
+
+Task6:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/GridSearchCV%20and%20RandomizedSearchCV.ipynb
+https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Precision%2C%20Recall%2C%20F1%20Score%20-%20Python%20implementation.ipynb
+
+
+
+
 
 
 
