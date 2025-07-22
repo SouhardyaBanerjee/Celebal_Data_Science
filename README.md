@@ -102,6 +102,20 @@ The goal of this task was to train and evaluate multiple machine learning models
 Task6:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/GridSearchCV%20and%20RandomizedSearchCV.ipynb
 https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Precision%2C%20Recall%2C%20F1%20Score%20-%20Python%20implementation.ipynb
 
+Week7:-Deploying Machine Learning Models with Streamlit
+
+Develop a web application using Streamlit to deploy a trained machine learning model. The app should allow users to input data, receive predictions, and understand model outputs through visualizations. This task will help you learn how to make your models accessible and interactive.
+
+Resources :
+https://docs.streamlit.io/https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/
+
+The goal of this task was to develop a web application using Streamlit to deploy a trained machine learning model. The app allows users to input data, receive real-time predictions, and understand model outcomes through intuitive visualizations.
+
+Dataset:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/tmdb_5000_movies.csv
+
+Task7:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Movie%20Recommender%20System.ipynb
+https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/app.py
+
 
 
 
