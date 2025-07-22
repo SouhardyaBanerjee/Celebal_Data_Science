@@ -1,4 +1,7 @@
 # Celebal_Data_Science
+
+Github Repo:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science
+
 In this README file I will discuss each and every assignment and the Final Project that I am sumbitting
 
 Project Title:-Data Science
@@ -27,6 +30,22 @@ Create a Python program that implements a singly linked list using Object-Orient
 In this task, a Singly Linked List is implemented using Object-Oriented Programming (OOP) principles in Python. This includes defining a Node class to represent individual elements and a LinkedList class to manage and manipulate the list.
 
 Task2:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%202.ipynb 
+
+Week3:-Data Visualization
+
+Take Any dataset of your choice and do the visualization
+
+Resources :
+https://www.youtube.com/watch?v=0P7QnIQDBJY
+https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda
+
+The goal of this task was to perform exploratory data analysis (EDA) and create meaningful data visualizations using a real-world dataset. The Titanic dataset was chosen for this exercise due to its simplicity and richness in features for analysis.
+
+Dataset:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/titanic_train.csv
+
+Task3:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%203.ipynb
+
+
 
 
 
