@@ -116,6 +116,18 @@ Dataset:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/tmd
 Task7:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Movie%20Recommender%20System.ipynb
 https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/app.py
 
+Project:-Random Forest for Credit Scoring
+
+Using a random forest ensemble method to predict creditworthiness of individuals based on various financial attributes.
+
+Resources :
+https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
+
+Dataset:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/german.data
+
+Task:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Final%20Project.ipynb
+
+
 
 
 
