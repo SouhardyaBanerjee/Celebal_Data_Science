@@ -84,6 +84,12 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 The primary objective of this task was to perform data preprocessing and feature engineering on a complex real-world dataset to prepare it for advanced machine learning models. The dataset used for this task was the House Prices - Advanced Regression Techniques dataset from Kaggle.
 
+Dataset:-
+https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/train.csv
+https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/test.csv
+
+Task5:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%205.ipynb
+
 
 
 
