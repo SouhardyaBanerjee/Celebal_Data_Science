@@ -17,8 +17,19 @@ The primary goal for Week 1 was to understand and implement basic pattern genera
 Lower Triangular Pattern
 Upper Triangular Pattern
 Pyramid Pattern
-Task1:-
+
+Task1:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%201.ipynb 
 
 Week2:-Implement a Linked List in Python Using OOP and Delete the Nth Node
+
+Create a Python program that implements a singly linked list using Object-Oriented Programming (OOP) principles. Your implementation should include the following: A Node class to represent each node in the list. A LinkedList class to manage the nodes, with methods to: Add a node to the end of the list Print the list Delete the nth node (where n is a 1-based index) Include exception handling to manage edge cases such as: Deleting a node from an empty list Deleting a node with an index out of range Test your implementation with at least one sample list.
+
+In this task, a Singly Linked List is implemented using Object-Oriented Programming (OOP) principles in Python. This includes defining a Node class to represent individual elements and a LinkedList class to manage and manipulate the list.
+
+Task2:-https://github.com/SouhardyaBanerjee/Celebal_Data_Science/blob/main/Assignment%202.ipynb 
+
+
+
+
 
 
